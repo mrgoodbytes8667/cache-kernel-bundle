@@ -1,7 +1,7 @@
 # cache-kernel-pack
 [![Packagist Version](https://img.shields.io/packagist/v/mrgoodbytes8667/cache-kernel-pack?logo=packagist&logoColor=FFF&style=flat)](https://packagist.org/packages/mrgoodbytes8667/cache-kernel-pack)
 [![PHP from Packagist](https://img.shields.io/packagist/php-v/mrgoodbytes8667/cache-kernel-pack?logo=php&logoColor=FFF&style=flat)](https://packagist.org/packages/mrgoodbytes8667/cache-kernel-pack)
-![Symfony Version](https://img.shields.io/endpoint?url=https%3A%2F%2Fshields.goodbytes.live%2Fshield%2Fsymfony%2F%255E5.2%2520%257C%2520%255E6.0&logoColor=FFF&style=flat)
+![Symfony Version](https://img.shields.io/endpoint?url=https%3A%2F%2Fshields.mrgoodbytes.dev%2Fshield%2Fsymfony%2F%255E5.2%2520%257C%2520%255E6.0&logoColor=FFF&style=flat)
 ![Packagist License](https://img.shields.io/packagist/l/mrgoodbytes8667/cache-kernel-pack?style=flat)    
 A pack whose recipe sets up a caching kernel
 
